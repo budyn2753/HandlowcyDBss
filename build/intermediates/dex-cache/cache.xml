@@ -3,39 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Darek\.android\build-cache\a7fe9d38d0df9e29cc71b1cd32d8baba5a42ba27\output\jars\classes.jar"
+        jar="C:\Users\Dominik\Desktop\HandlowcyDB\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="D:\HandlowcyDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0a4babe8a7e47f58aac13095b175191620d1e0b\classes.dex" />
+        sha1="703b7c9db8338da37c8314b1e6562cf349838185">
+        <dex dex="C:\Users\Dominik\Desktop\HandlowcyDB\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_88da45227b346121bfa7f026be020ae5b0079e83\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Darek\.android\build-cache\d7577686361474f551a39a60e2e728e7c211c146\output\jars\classes.jar"
+        jar="C:\Users\Dominik\.android\build-cache\f2ce661c0c678abe1ee8d4cf8459ebcd9e781840\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="D:\HandlowcyDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d256701fb8a9eab0fb6cd6015f98ecd8cea2da2\classes.dex" />
+        <dex dex="C:\Users\Dominik\Desktop\HandlowcyDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abe7ec8e42c0702ed1412e7e93c179c656df65ac\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\HandlowcyDB\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="7d7f0d758f4edba5f3a421c8146606b3b3cb923a">
-        <dex dex="D:\HandlowcyDB\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8e144720c310d4645bbb38a0688c2c5312d20b54\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\HandlowcyDB\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Dominik\Desktop\HandlowcyDB\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\HandlowcyDB\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ff15029f58952a6f5c1b46c3b0e00e99eb2932df\classes.dex" />
+        <dex dex="C:\Users\Dominik\Desktop\HandlowcyDB\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_999d850a412a9320f6df3b359b9756889a51cc36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dominik\.android\build-cache\001a01c886a550dd234b0d4b9200ea96cbdb8263\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Dominik\Desktop\HandlowcyDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_159b996498298f3712c79ebb0a9f5ae700ca792e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dominik\.android\build-cache\33df46c296d0d926addf9bf21f549747a44354f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Dominik\Desktop\HandlowcyDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14cfc877c64f91bbdbe70957ebbcee601d98868c\classes.dex" />
     </item>
 
 </items>
