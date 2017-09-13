@@ -48,7 +48,7 @@ public class SigninActivity extends AsyncTask<String,String,String> {
     @Override
     protected void onPostExecute(String result){
         this.statusField.setText(result);
-       // this.roleField.setText(result);
+       
     }
 
 }
