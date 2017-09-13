@@ -38,6 +38,8 @@ public class SigninActivity extends AsyncTask<String,String,String> {
         String username = (String) arg0[0];
         String password = (String) arg0[1];
 
+        //xD
+        //nowy commit
         String result = sql.Logon(username, password);
 
         return result;
